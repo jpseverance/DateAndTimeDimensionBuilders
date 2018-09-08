@@ -1,5 +1,5 @@
 # DateAndTimeDimensionBuilders
-Date dimension and time dimension builders written in Python for data warehousing.
+Date dimension and time dimension builders for data warehousing written in Python.
 
 ## Date Dimension Builder (datedimensionbuilder.py)
     $ python datedimensionbuilder.py --help
