@@ -1,7 +1,7 @@
 # DateAndTimeDimensionBuilders
 Date dimension and time dimension builders for data warehousing written in Python.
 
-## Date Dimension Builder (datedimensionbuilder.py)
+## Date Dimension Builder ([datedimensionbuilder.py](https://github.com/jpseverance/DateAndTimeDimensionBuilders/blob/master/datedimensionbuilder.py))
     $ python datedimensionbuilder.py --help
     usage: datedimensionbuilder.py [-h] [-f FILE] [-s DATE] [-e DATE] [-c]
     
@@ -21,7 +21,7 @@ Date dimension and time dimension builders for data warehousing written in Pytho
       -c, --columnnamesonly
                             output column names only.
 
-## Time Dimension Builder (timedimensionbuilder.py)
+## Time Dimension Builder ([timedimensionbuilder.py](https://github.com/jpseverance/DateAndTimeDimensionBuilders/blob/master/timedimensionbuilder.py))
 
     $ python timedimensionbuilder.py --help
     usage: timedimensionbuilder.py [-h] [-f FILE]
